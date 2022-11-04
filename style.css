@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+.container {
+    background-color: rgb(255, 115, 0);
+    font-size: 40px;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    width: 30%;
+    margin: 40px;
+}
+
+.headings {
+    color: blue;
+    font-size: 60px;
+    text-shadow: 10px 10px 5px pink;
+}
+
+input {
+    color: brown;
+}
+
+#contain {
+    width: 90%;
+    border: 15px whitesmoke ridge;
+    border-radius: 30px;
+    height: 80%;
+    vertical-align: middle;
+    box-shadow: 30px 30px 30px grey;
+
+}
